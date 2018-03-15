@@ -1,0 +1,54 @@
+{
+  "name": "folder-templatex",
+  "version": "0.1.5",
+  "description": "A directory / files generator based on templates",
+  "author": "Eduard Fidiles",
+  "contributors": [{
+	  "name": "John Kilpatrick"
+  }],
+  "license": "MIT",
+  "main": "index.js",
+  "bin": {
+    "ft": "bin/cli.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+      "node": ">= 6.5.0"
+  },
+  "dependencies": {
+    "assemble": "^0.17.1",
+    "debug": "^2.2.0",
+    "enquirer": "^0.4.1",
+    "gulp-rename": "^1.2.2",
+    "handlebars-helpers": "^0.7.5"
+  },
+  "keywords": [
+    "generate",
+    "generator",
+    "file",
+    "folder",
+    "template",
+    "templates",
+    "templating",
+    "build",
+    "builder",
+    "compile",
+    "component",
+    "handlebars",
+    "helper",
+    "helpers",
+    "scaffold",
+    "scaffolder",
+    "scaffolding",
+    "angular",
+    "angular2",
+    "ng",
+    "ng2",
+    "react",
+    "service",
+    "pipe",
+    "module"
+  ]
+}

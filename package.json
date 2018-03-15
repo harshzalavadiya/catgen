@@ -1,0 +1,14 @@
+{
+  "name": "catgen",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "generate": "ft"
+  },
+  "author": "Harsh Zalavadiya",
+  "license": "ISC",
+  "dependencies": {
+    "folder-templatex": "file:folder-templatex"
+  }
+}

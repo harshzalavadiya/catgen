@@ -1,0 +1,1 @@
+npm run generate tomcat8 ./generated
